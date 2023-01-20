@@ -3,12 +3,13 @@ var bingoList = [
         { "name": "木の枝6本", "en": "6 Tree Branches", "types": ["Weapon", "Plateau"] },
         { "name": "森人武器盾弓", "en": "Forest Dweller’s Weapon&Shield&Bow", "types": ["Weapon", "Woodland"] },
         { "name": "武器8種", "en": "8 Different Weapon", "types": ["Weapon", "Castle"] },
+        { "name": "ミニゲーム:雪玉ボウルでストライク", "en": "Strike in bowling mini-game", "types": ["Minigame", "Hebra"] },
+        { "name": "ミニゲーム:鳥人間チャレンジ 7000m以上滑空", "en": "7000m in the Gliding Minigame", "types": ["Minigame", "Ridgeland"] },
     ], [
         { "name": "ほこらチャレンジ:暗闇の試練", "en": "Shrouded Shrine' Shrine Quest", "types": ["Shrine Quests", "Shrine", "Woodland"] },
         { "name": "秘湯でゆでたまごを作る", "en": "Boiled eggs in a secret hot spring", "types": ["Egg", "Secret Hot Spring", "Hot Spring"] },
         { "name": "○○柄の盾2種", "en": "2 types of Shields from Fisherman& Emblazoned & Hunter", "types": ["Shield", "Faron"] },
         { "name": "チュチュゼリー全種", "en": "All Chuchu Jelly", "types": ["Arrow", "Plateau"] },
-        { "name": "ミニゲーム:雪玉ボウルでストライク", "en": "Strike in bowling mini-game", "types": ["Minigame", "Hebra"] },
         { "name": "古代兵装矢10本", "en": "10 Ancient Arrows", "types": ["Arrow", "Castle"] },
         { "name": "防具5種", "en": "5 Armors", "types": ["Clothes", "Rupee", "Talus"] },
     ], [
@@ -16,11 +17,9 @@ var bingoList = [
         { "name": "ウワサのミツバちゃん3巻読破", "en": "Read 3 Rumor Mill", "types": ["Rumor Mill"] },
         { "name": "ハイラルなぞなぞしれんでヨロイカボチャを見せる", "en": "Show Fortified Pumpkin in 'Riddles of Hyrule' Side Quest", "types": ["Riddles of Hyrule", "Woodland", "Side Quest"] },
         { "name": "ほしのかけら2個", "en": "2 Star Fragments", "types": ["Star Fragments", "Central Hyrule"] },
-        { "name": "ミニゲーム:鳥人間チャレンジ 7000m以上滑空", "en": "7000m in the Gliding Minigame", "types": ["Minigame", "Ridgeland"] },
         { "name": "ミニチャレンジ:奪われた漁場", "en": "Take Back the Sea' Side Quest", "types": ["Faron", "Side Quest"] },
         { "name": "記憶ムービー3個", "en": "Collect 3 Memories", "types": ["Memories", "Camera", "Central Hyrule", "Hateno", "Dueling Peaks"] },
         { "name": "○○柄の盾3種", "en": "3 types of Shields from Fisherman& Emblazoned & Hunter", "types": ["Shield", "Faron"] },
-        { "name": "コログのミ 10個", "en": "10 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "シーカータワー 4基起動", "en": "Activate 4 Towers", "types": ["Tower"] },
         { "name": "ズーム弓2種類", "en": "2 Bows with zoom effect", "types": ["Bow"] },
         { "name": "ゆでたまご5個", "en": "5 Hard-Boiled Egg", "types": ["Egg", "Hot Spring", "Cooking"] },
@@ -48,7 +47,7 @@ var bingoList = [
         { "name": "馬を蘇生する", "en": "Revive a horse", "types": ["Rupee", "Horse", "Lake"] },
         { "name": "3000ルピー", "en": "3000 Rupees", "types": ["Rupee", "Talus", "Ridgeland"] },
         { "name": "ウワサのミツバちゃん5巻読破", "en": "Read 5Rumor Mill", "types": ["Rumor Mill"] },
-        { "name": "シーカータワー 6基起動", "en": "Activate 4 Towers", "types": ["Tower"] },
+        { "name": "シーカータワー 6基起動", "en": "Read 5Rumor Mill", "types": ["Tower"] },
         { "name": "ネルドラ解放", "en": "Release Naydra", "types": ["Shrine Quests", "Naydra", "Hateno"] },
         { "name": "ミニチャレンジ:もう一人の研究者", "en": "Robbie's Research' Side Quest", "types": ["Camera", "Akkala", "Hateno", "Dueling Peaks", "Side Quest"] },
         { "name": "メインチャレンジ4個達成", "en": "4 MainQuests", "types": ["MainQuest", "Camera", "Hateno", "Dueling Peaks"] },
@@ -56,7 +55,6 @@ var bingoList = [
         { "name": "蛮族装備一式", "en": "Full Barbarian Set", "types": ["Clothes", "Shrine", "Akkala", "Hebra"] },
         { "name": "竜の素材5種", "en": "5 Different Dragon's Parts", "types": ["Dragon's Parts", "Naydra", "Farosh", "Dinraal", "Castle"] },
     ], [
-        { "name": "コログのミ 15個", "en": "15 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "ゾーラの兜★", "en": "Zora Helm ★", "types": ["Great Fairy", "Clothes", "Lanayru"] },
         { "name": "ほこらチャレンジ:ドクロの左目", "en": "The Skull's Eye' Shrine Quest", "types": ["Shrine Quests", "Shrine", "Camera", "Akkala", "Hateno", "Dueling Peaks"] },
         { "name": "ほこらチャレンジ:石碑のかけら探し", "en": "Fragmented Monument' Shrine Quest", "types": ["Shrine Quests", "Shrine", "Camera", "Faron", "Hateno", "Dueling Peaks"] },
@@ -86,7 +84,6 @@ var bingoList = [
     ], [
         { "name": "古代の巨大なコア4個", "en": "4 Giant Ancient Core", "types": ["Giant Ancient Core", "Shrine", "Akkala"] },
         { "name": "ウワサのミツバちゃん全巻読破", "en": "Read all Rumor Mill", "types": ["Rumor Mill"] },
-        { "name": "コログのミ 20個", "en": "20 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "ヒノックス5体討伐 (どの種でも可)", "en": "Kill 5 Hinox of any kind", "types": ["Kill", "Boss Monster"] },
         { "name": "ミニゲーム5種クリア", "en": "5 Minigames", "types": ["Minigame", "Lake"] },
         { "name": "大事なもの7枠", "en": "7 Different Key Items", "types": ["Minigame", "Key Items", "Horse Equipment"] },
@@ -103,7 +100,6 @@ var bingoList = [
         { "name": "ライネル、ヒノックス、モルドラの素材計7種", "en": "7 Different Monster Parts From Lynel&Hinox&Molduga", "types": ["Boss Monster", "Castle", "Wasteland"] },
         { "name": "小型ガーディアン（極位）3体討伐", "en": "Kill 3 Guardian Scout IV", "types": ["Guardian", "Kill", "Hebra"] },
         { "name": "5000ルピー", "en": "5000 Rupees", "types": ["Rupee", "Talus", "Ridgeland"] },
-        { "name": "コログのミ 25個", "en": "25 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "ミニチャレンジ:コログしれん", "en": "Korok Trials' Side Quest", "types": ["Shrine", "Minigame", "Shrine Quests", "Woodland", "Shrines", "Spirit Orb", "Side Quest"] },
         { "name": "古代の巨大なコア5個", "en": "5 Giant Ancient Core", "types": ["Giant Ancient Core", "Shrine", "Akkala"] },
         { "name": "耐火の石兜★", "en": "Flamebreaker Helm ★", "types": ["Great Fairy", "Clothes", "Rupee", "Talus", "Eldin", "Ridgeland"] },
@@ -111,10 +107,7 @@ var bingoList = [
         { "name": "ミニチャレンジ:ホタル ノ ヒカリ", "en": "By Firefly's Light' Side Quest", "types": ["Great Fairy", "Camera", "Hateno", "Dueling Peaks", "Side Quest"] },
     ], [
         { "name": "イワロック、マグロック、ガチロック1体ずつ討伐", "en": "Kill Stone&Igneo&Frost Tarus", "types": ["Kill", "Boss Monster", "Eldin", "Hebra"] },
-        {
-            "name": "ガーディアンを倒して力の試練の祠3基攻略", "en": "3 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine",
-                "Shrines"]
-        },
+        { "name": "ガーディアンを倒して力の試��の祠3基攻略", "en": "3 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine", "Shrines"] },
         { "name": "カッシーワのチャレンジ5種", "en": "5 Kass Quests", "types": ["Kass", "Shrine Quests", "Shrine", "Shrines", "Spirit Orb", "Side Quest"] },
         { "name": "ミニゲーム:飛行訓練 的を20個射抜く", "en": "20 Targets in Flight Range Minigame", "types": ["Divine Beast", "Tabantha", "Hebra", "Champion's Abilities"] },
         { "name": "防具11種", "en": "11 Armors", "types": ["Clothes", "Rupee", "Talus"] },
@@ -123,7 +116,6 @@ var bingoList = [
         { "name": "メインチャレンジ6個達成", "en": "6 MainQuests", "types": ["MainQuest", "Camera", "Hateno", "Dueling Peaks"] },
         { "name": "大事なもの11枠", "en": "11 Different Key Items", "types": ["Minigame", "Key Items", "Horse Equipment"] },
         { "name": "ガノン討伐", "en": "Beat Ganon", "types": ["Divine Beast", "MainQuest", "Central Hyrule"] },
-        { "name": "コログのミ 30個", "en": "30 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "武器13種", "en": "13 Different Weapon", "types": ["Weapon", "Koroks", "Castle", "Plateau", "Central Hyrule", "Dueling Peaks"] },
     ], [
         { "name": "ほこらチャレンジ:盗まれた宝珠", "en": "The Stolen Heirloom' Shrine Quest", "types": ["Shrine Quests", "Shrine", "Camera", "Great Fairy", "Hateno", "Dueling Peaks"] },
@@ -131,36 +123,32 @@ var bingoList = [
         { "name": "ミニチャレンジ:八人目の英雄", "en": "The Eighth Heroine' Side Quest", "types": ["Camera", "Gerudo", "Hateno", "Dueling Peaks"] },
         { "name": "ミファーの祈り", "en": "Mipha's Grace", "types": ["Divine Beast", "MainQuest", "Lanayru", "Champion's Abilities"] },
         { "name": "古代の巨大なコア6個", "en": "6 Giant Ancient Core", "types": ["Giant Ancient Core", "Shrine", "Akkala"] },
-        { "name": "ハイラル図鑑 生き物 20種登録（購入不可）", "en": "20 Creatures in Compendium(without purchase)", "types": ["Camera", "Compendium"] },], [
+        { "name": "ハイラル図鑑 生き物 20種登録（購入不可）", "en": "20 Creatures in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
+    ], [
         { "name": "カッシーワのチャレンジ6種", "en": "6 Kass Quests", "types": ["Kass", "Shrine Quests", "Shrine", "Shrines", "Spirit Orb", "Side Quest"] },
-        { "name": "コログのミ 35個", "en": "30 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "ほこらチャレンジ:リトの兄弟岩", "en": "Recital at Warbler's Nest' Shrine Quest", "types": ["Shrine Quests", "Shrine", "Tabantha"] },
         { "name": "メインチャレンジ7個達成", "en": "7 MainQuests", "types": ["MainQuest", "Divine Beast", "Camera", "Hateno", "Dueling Peaks", "Champion's Abilities"] },
         { "name": "祠 15基攻略", "en": "15 Shrines", "types": ["Shrine", "Central Hyrule", "Shrines", "Spirit Orb"] },
-        {
-            "name": "ガーディアンを倒して力の試練の祠5基攻略", "en": "5 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine",
-                "Shrines"]
-        },
+        { "name": "ガーディアンを倒して力の試練の祠5基攻略", "en": "5 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine", "Shrines"] },
         { "name": "ほこらチャレンジ 8つ攻略", "en": "8 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
         { "name": "ミニゲーム8種クリア", "en": "8 Minigames", "types": ["Minigame", "Lake", "Horse Equipment"] },
         { "name": "ミニチャレンジ:忘れられた剣", "en": "The Forgotten Sword' Side Quest", "types": ["Rupee", "Wasteland", "Gerudo", "Camera", "Side Quest"] },
         { "name": "古代兵装矢25本", "en": "25 Ancient Arrows", "types": ["Arrow", "Camera", "Castle", "Akkala", "Hateno", "Dueling Peaks"] },
         { "name": "ダルケルの護り", "en": "Daruk's Protection", "types": ["Divine Beast", "MainQuest", "Eldin", "Champion's Abilities"] },
-        { "name": "ほこらチャレンジ 9つ攻略", "en": "9 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
-        { "name": "ミニチャレンジ:ハイラルなぞなぞしれん", "en": "Riddles of Hyrule' Side Quest", "types": ["Riddles of Hyrule", "Boss Monster", "Woodland", "Side Quest"] },
         { "name": "ミニチャレンジ:解放 さらなる力", "en": "Slated for Upgrades' Side Quest", "types": ["Camera", "Hateno", "Dueling Peaks", "Side Quest"] },
         { "name": "古代兵装武器", "en": "Ancient Weapon", "types": ["Rupee", "Weapon", "Talus", "Castle", "Akkala"] },
         { "name": "防具14種", "en": "14 Armors", "types": ["Clothes", "Rupee", "Talus"] },
         { "name": "夜光シリーズ一式を着て自撮り", "en": "Selfie wearing a set of Radiant series", "types": ["Rupee", "Camera", "Wasteland", "Hateno", "Dueling Peaks"] },
         { "name": "ハイラル図鑑 魔物 20種登録（購入不可）", "en": "20 Monsters in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
     ], [
-        { "name": "コログのミ 40個", "en": "40 Koroks", "types": ["Koroks", "Plateau"] },
+        { "name": "ほこらチャレンジ 9つ攻略", "en": "9 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
+        { "name": "ミニチャレンジ:ハイラルなぞなぞしれん", "en": "Riddles of Hyrule' Side Quest", "types": ["Riddles of Hyrule", "Boss Monster", "Woodland", "Side Quest"] },
         { "name": "ミニチャレンジ:巨大クジラの化石", "en": "Leviathan Bones' Side Quest", "types": ["Camera", "Eldin", "Wasteland", "Hebra", "Hateno", "Dueling Peaks", "Side Quest"] },
         { "name": "凍結無効", "en": "Unfreezable (without potion)", "types": ["Hebra", "Tabantha", "Rupee", "Great Fairy", "Clothes"] },
+        { "name": "古代兵装弓", "en": "Ancient Bow", "types": ["Rupee", "Bow", "Talus", "Castle", "Akkala"] },
     ], [
         { "name": "ヒノックス10体討伐 (どの種でも可)", "en": "Kill 10 Hinox of any kind", "types": ["Kill", "Boss Monster"] },
         { "name": "ほこらチャレンジ 10つ攻略", "en": "10 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
-        { "name": "古代兵装弓", "en": "Ancient Bow", "types": ["Rupee", "Bow", "Talus", "Castle", "Akkala"] },
         { "name": "古代兵装盾", "en": "Ancient Shield", "types": ["Rupee", "Shield", "Talus", "Castle", "Akkala"] },
         { "name": "武器14種", "en": "14 Different Weapon", "types": ["Weapon", "Koroks", "Castle", "Plateau", "Central Hyrule", "Dueling Peaks"] },
         { "name": "ミニチャレンジ10個", "en": "10 Side Quests", "types": ["Side Quest", "Dueling Peaks"] },
@@ -172,25 +160,20 @@ var bingoList = [
         { "name": "カッシーワのチャレンジ7種", "en": "7 Kass Quests", "types": ["Kass", "Shrine Quests", "Shrine", "Shrines", "Spirit Orb", "Side Quest"] },
         { "name": "全ての塔を起動", "en": "Activate All Towers", "types": ["Tower"] },
         { "name": "ほこらチャレンジ 11つ攻略", "en": "11 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
-        { "name": "コログのミ 50個", "en": "50 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "大事なもの12枠", "en": "12 Different Key Items", "types": ["Minigame", "Key Items", "Horse Equipment"] },
         { "name": "古代兵装防具", "en": "Ancient Armor", "types": ["Rupee", "Clothes", "Talus", "Castle", "Akkala"] },
     ], [
         { "name": "祠 20基攻略", "en": "20 Shrines", "types": ["Shrine", "Central Hyrule", "Shrines", "Spirit Orb"] },
         { "name": "ほこらチャレンジ 12つ攻略", "en": "12 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
-        { "name": "ハイラル図鑑 生き物 30種登録（購入不可）", "en": "30 Creatures in Compendium(without purchase)", "types": ["Camera", "Compendium"] }, 
+        { "name": "ハイラル図鑑 生き物 30種登録（購入不可）", "en": "30 Creatures in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
         { "name": "炎無効", "en": "Fireproof (without potion)", "types": ["Eldin", "Rupee", "Great Fairy", "Clothes"] },
     ], [
         { "name": "がんばりゲージ2周", "en": "5 Stamina Vessels", "types": ["Shrine"] },
         { "name": "ラジークキラーの証", "en": "Medal of Honor: Molduga", "types": ["Kill", "Boss Monster", "Wasteland", "Akkala"] },
-        {
-            "name": "ガーディアンを倒して力の試練の祠8基攻略", "en": "8 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine",
-                "Akkala", "Shrines"]
-        },
+        { "name": "ガーディアンを倒して力の試練の祠8基攻略", "en": "8 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine", "Akkala", "Shrines"] },
         { "name": "ミニゲーム9種クリア", "en": "9 Minigames", "types": ["Minigame", "Lake", "Horse Equipment"] },
         { "name": "ハイラル図鑑 魔物 30種登録（購入不可）", "en": "30 Monsters in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
     ], [
-        { "name": "コログのミ 60個", "en": "60 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "メインチャレンジ8個達成", "en": "8 MainQuests", "types": ["MainQuest", "Divine Beast", "Camera", "Hateno", "Dueling Peaks", "Champion's Abilities"] },
         { "name": "ハイラル図鑑 武器 40種登録（購入不可）", "en": "40 Equipment in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
         { "name": "ほこらチャレンジ 13つ攻略", "en": "13 Shrine Quests", "types": ["Shrine Quests", "Shrine", "Shrines", "Spirit Orb"] },
@@ -202,36 +185,30 @@ var bingoList = [
         { "name": "ヒノックス15体討伐 (どの種でも可)", "en": "Kill 15 Hinox of any kind", "types": ["Kill", "Boss Monster"] },
         { "name": "祠 25基攻略", "en": "25 Shrines", "types": ["Shrine", "Central Hyrule", "Shrines", "Spirit Orb"] },
         { "name": "ガーディアンを倒して力の試練の祠10基攻略", "en": "10 A Test of Strength while Killing Guardian Scout", "types": ["Guardian", "Shrine", "Akkala", "Shrines"] },
-        { "name": "コログのミ 70個", "en": "70 Koroks", "types": ["Koroks", "Plateau"] },
     ], [
         { "name": "ミニチャレンジ15個", "en": "15 Side Quests", "types": ["Side Quest", "Dueling Peaks"] },
         { "name": "メインチャレンジ：ウツシエの記憶", "en": "Captured Memories' Main Quest", "types": ["Camera", "Hateno", "Dueling Peaks"] },
-        { "name": "加速泳ぎがんばり長持ち", "en": "Swim Dash Stamina Up", "types": ["Divine Beast", "Camera", "Lanayru", "Hateno", "Dueling Peaks", "Side Quest", "Rupee", "Great Fairy", "Clothes", "Lizalfos Parts"] },
+        { "name": "加速泳ぎがんばり長持ち", "en": "Swim Dash Stamina Up", "types": ["Divine Beast", "Camera", "Lanayru", "Rupee", "Great Fairy", "Clothes", "Lizalfos Parts"] },
     ], [
         { "name": "エノキダ結婚", "en": "Marriage", "types": ["Side Quest", "Rupee", "Talus", "Hateno", "Akkala"] },
         { "name": "祠 28基攻略", "en": "28 Shrines", "types": ["Shrine", "Central Hyrule", "Shrines", "Spirit Orb"] },
         { "name": "大事なもの13枠", "en": "13 Different Key Items", "types": ["Minigame", "Key Items", "MainQuest", "Horse Equipment"] },
-        { "name": "ミニゲーム10種クリア", "en": "10 Minigames", "types": ["Minigame", "Lake", "Horse Equipment"] },
     ], [
-        { "name": "コログのミ 80個", "en": "80 Koroks", "types": ["Koroks", "Plateau"] },
-        { "name": "ハイラル図鑑 生き物 40種登録（購入不可）", "en": "40 Creatures in Compendium(without purchase)", "types": ["Camera", "Compendium"] }, 
+        { "name": "ミニゲーム10種クリア", "en": "10 Minigames", "types": ["Minigame", "Lake", "Horse Equipment"] },
+        { "name": "ハイラル図鑑 生き物 40種登録（購入不可）", "en": "40 Creatures in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
         { "name": "メインチャレンジ9個達成", "en": "9 MainQuests", "types": ["MainQuest", "Divine Beast", "Camera", "Hateno", "Dueling Peaks", "Champion's Abilities"] },
     ], [
         { "name": "祠 30基攻略", "en": "30 Shrines", "types": ["Shrine", "Central Hyrule", "Shrines", "Spirit Orb"] },
-        {
-            "name": "ミニチャレンジ: ゲルドの至宝 雷鳴の兜！", "en": "The Thunder Helm' Side Quest", "types": ["Side Quest", "Divine Beast", "MainQuest",
-                "Gerudo", "Wasteland", "Champion's Abilities"]
-        },
+        { "name": "ミニチャレンジ: ゲルドの至宝 雷鳴の兜！", "en": "The Thunder Helm' Side Quest", "types": ["Side Quest", "Divine Beast", "MainQuest", "Gerudo", "Wasteland", "Champion's Abilities"] },
         { "name": "ハイラル図鑑 魔物 40種登録（購入不可）", "en": "40 Monsters in Compendium(without purchase)", "types": ["Camera", "Compendium"] },
     ], [
         { "name": "武器16種", "en": "16 Different Weapon", "types": ["Weapon", "Koroks", "Castle", "Plateau", "Central Hyrule", "Dueling Peaks", "Woodland"] },
-        { "name": "ミニチャレンジ:幼き武器マニア", "en": "The Weapon Connoisseur' Side Quest", "types": ["Hateno", "Rupee", "Weapon", "Talus", "Castle", "Akkala", "Wasteland", "Gerudo", "Side Quest", ""] },
-        { "name": "コログのミ 90個", "en": "90 Koroks", "types": ["Koroks", "Plateau"] },
+        { "name": "ミニチャレンジ:幼き武器マニア", "en": "The Weapon Connoisseur' Side Quest", "types": ["Hateno", "Rupee", "Weapon", "Talus", "Castle", "Akkala", "Wasteland", "Gerudo", "Side Quest"] },
         { "name": "ヒノックス20体討伐 (どの種でも可)", "en": "Kill 20 Hinox of any kind", "types": ["Kill", "Boss Monster"] },
     ], [
-        { "name": "コログのミ 100個", "en": "100 Koroks", "types": ["Koroks", "Plateau"] },
         { "name": "ここ掘れワンワンの全宝箱入手(16個)", "en": "All Dog Tresures", "types": ["Side Quest", "Rupee", "Talus", "Hateno", "Akkala"] },
         { "name": "マモノ馬装備一式", "en": "Monster Saddle and Bridle", "types": ["Horse Equipment", "Divine Beast", "MainQuest", "Champion's Abilities"] },
+        { "name": "ミニゲーム10種クリア", "en": "10 Minigames", "types": ["Minigame", "Lake", "Horse Equipment"] },
     ], [
         { "name": "ハイリアのフード★★★★", "en": "Hylian Hood★★★★", "types": ["Hateno", "Rupee", "Great Fairy", "Clothes", "Boko Parts"] },
         { "name": "マスターソード", "en": "Master Sword", "types": ["Shrine", "MainQuest", "Woodland", "Shrines", "Spirit Orb"] },
